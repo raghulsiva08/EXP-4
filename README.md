@@ -34,30 +34,26 @@ PROCEDURE:
 3.   Connect the capacitor filter and observe the waveforms. Note down and calculate ripple factor, rectifier efficiency and %regulation using the expressions. Repeat for different capacitor values.
 4.   Repeat the above steps for full wave and bridge rectifiers.
 
-CIRCUIT DIAGRAMS
-
-Half wave rectifier with filter:
-<img width="894" height="651" alt="image" src="https://github.com/user-attachments/assets/7932efc4-25e1-47e9-af63-79305ee9c300" />
+CIRCUIT DIAGRAMS and TABULAR COLUMN
+<img width="994" height="1307" alt="image" src="https://github.com/user-attachments/assets/0778dd34-098e-4a35-9702-4805c6bd7bba" />
 
 
-Bridge rectifier without filter:
-<img width="957" height="641" alt="image" src="https://github.com/user-attachments/assets/23b522ab-5825-4f6b-851f-d3b9b80d6970" />
+Half wave rectifier with filter and without filter:
+<img width="900" height="774" alt="image" src="https://github.com/user-attachments/assets/eabbcf92-7245-40cd-b7d7-b6a8cbef5da1" />
 
 
-TABULAR COLUMN
 
-Rectifier without filter
-<img width="932" height="666" alt="image" src="https://github.com/user-attachments/assets/0e5e8c4c-3f62-43ee-9c97-e61b490c1b66" />
+Circuit diagram and TABULAR COLUMN
+<img width="1017" height="1299" alt="image" src="https://github.com/user-attachments/assets/c0704b0c-2b7f-4b59-b242-fb9bc69e9945" />
 
-TABULAR COLUMN
+Rectifier with filter and without filter:
+<img width="920" height="739" alt="image" src="https://github.com/user-attachments/assets/2f1e68d0-05f9-4a86-ae92-3203c9adeef9" />
 
-Rectifier with filter
-<img width="1004" height="686" alt="image" src="https://github.com/user-attachments/assets/d854120c-1796-43f8-a41f-7730c69e7049" />
 
 WAVEFORM:
-<img width="1155" height="700" alt="image" src="https://github.com/user-attachments/assets/1a551cca-5628-422c-8f94-080bdb210f42" />
-<img width="1087" height="666" alt="image" src="https://github.com/user-attachments/assets/bc5a3b91-3c1a-4210-8515-162e41828945" />
-<img width="922" height="563" alt="image" src="https://github.com/user-attachments/assets/71e1120b-76f9-42c1-8469-f6e4b030eed4" />
+<img width="935" height="454" alt="image" src="https://github.com/user-attachments/assets/25837b0d-54ae-4fc1-bfe8-626189ad311e" />
+<img width="930" height="529" alt="image" src="https://github.com/user-attachments/assets/6789e7f8-1a23-4437-8b6b-433f7cced01c" />
+
 
 
 RESULT:
